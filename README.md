@@ -1,4 +1,4 @@
-# Sales-Insights-Analysis-using-SQL
+# Sales-Insights-Analysis-using-SQL-and-Tableau
 
 # Scenario
 There is a company which supplies the computer hardware peripheral to differnt clients/stores. Company has a head office and regional offices in different states. Sales of the company are declining and the Sales Director of the company wants some insights like revenue breakdown by cities, revenue breakdown by years and months, top five products by revenue etc for analysis and business decissions
